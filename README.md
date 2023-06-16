@@ -10,6 +10,8 @@ A small interactive Japanese town made in Unity.
 * [Eastern SFX](https://assetstore.unity.com/packages/audio/sound-fx/eastern-sfx-74043)
 * [Universal Sound FX](https://assetstore.unity.com/packages/audio/sound-fx/universal-sound-fx-17256)
 * [Fantasy Skybox FREE](https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353)
+* [Dark Asian Music - 011722](https://assetstore.unity.com/packages/audio/music/dark-asian-music-011722-211803)
+* [Japanese Old Town](https://assetstore.unity.com/packages/3d/environments/historic/japanese-old-town-155659)
 
 ## Previews:
 ### Villager Greeting
