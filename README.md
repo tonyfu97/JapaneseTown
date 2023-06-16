@@ -1,8 +1,9 @@
 # JapaneseTown
 A small interactive Japanese town made in Unity.
 
-[Demo Video](https://youtu.be/4Lk3K_R4-LA)
-[Updated Demo Video](https://youtu.be/e96kLlMXwNI)
+## Demo Videos:
+* [Version 1](https://youtu.be/4Lk3K_R4-LA)
+* [Version 2](https://youtu.be/e96kLlMXwNI)
 
 ## Assets Used:
 * [POLYGON Samurai - Low Poly 3D Art by Synty](https://assetstore.unity.com/packages/3d/environments/polygon-samurai-low-poly-3d-art-by-synty-89551)
